@@ -63,9 +63,12 @@ classDiagram
 
 ## Documentação da API (Swagger)
 
-### [[https://sdw-2023-prd.up.railway.app]/swagger-ui.html](https://sdw-2023-prd.up.railway.app)/swagger-ui.html)
+### [https://api-cliente-endereco.up.railway.app/swagger-ui.html](https://api-cliente-endereco.up.railway.app/swagger-ui.html)
 
-https://api-cliente-endereco.up.railway.app/
 
-Esta API ficará disponível no Railway por um período de tempo limitado.
+Esta API ficará disponível no Railway para acesso.
+
+## Funcionalidade
+
+Cria, altera, exclui e apaga um usuário e seus endereços.
 
